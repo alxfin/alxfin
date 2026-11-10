@@ -19,6 +19,7 @@ My work code lives in private company repos, but here's what's in there:
 - **Document management system** (Rust + Next.js): search, OCR, approvals, ~50 weekly users
 - **MCP server** (Rust): lets staff use Claude on company data safely, with OAuth, RBAC and row-level gating
 - **HR products:** performance appraisal, manpower planning, request forms
+
 Happy to walk through any of them, just email me.
 
 ## ✨ Quirks
